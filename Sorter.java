@@ -43,4 +43,8 @@ public class Sorter{
         }
       }
 
+      public static void sort(int[] Array){
+        insertionSort(Array);
+      }
+
 }
